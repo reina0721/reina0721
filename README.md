@@ -1,4 +1,4 @@
-## Hi 👋 Rin here.
+## Hi 👋 Reina here.
 
 <!--
 **rin721/rin721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
